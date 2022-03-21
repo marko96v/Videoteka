@@ -1,0 +1,3 @@
+Bla|BlaBla|2016|Ddsdad Psdad|dasdsad asd sad as|90.0|true
+Aaa|Aaa A|2016|Kglds Lfsd|mfdb mdfu lo|120.0|false
+Film|FilmFilm|2016|Reziser Reziser|aaaaaaaaaaa|86.0|true

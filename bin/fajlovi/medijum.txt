@@ -1,0 +1,3 @@
+VHS|200
+DVD|300
+BlueRay|500

@@ -1,0 +1,4 @@
+1z|komedija|true
+2z|drama|true
+3z|horor|true
+4z|akcija|true

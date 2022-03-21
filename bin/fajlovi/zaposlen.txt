@@ -1,0 +1,5 @@
+Pera|Peric|0213123|Adresa 1|Muski|30000.0|perap|123|true
+Marija|Markovic|45678|Adresa 22|null|30000.0|marijam|456|true
+asada|dsasd|021316573|Adresa 3|Muski|30000.0|dada|5645|false
+imeRadnik|prezimeRadnik|5555555|adresaRadnik|null|30000.0|radnik1|radnik1|false
+Darinka|Petrovic|312321|Adresa|null|80000.0|liki|555|false

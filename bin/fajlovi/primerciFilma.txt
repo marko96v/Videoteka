@@ -1,0 +1,6 @@
+1|DVD|Bla|10|true
+2|VHS|Bla|10|true
+3|DVD|Film|5|true
+4|VHS|Film|10|true
+5|BlueRay|Film|1|true
+6|BlueRay|Bla|3|false
