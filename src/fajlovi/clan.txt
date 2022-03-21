@@ -1,0 +1,3 @@
+Nikola|Dizdarevic|1212121|Adresa 12|Muski|1|true|true
+Lala|Lala|999999|Adresa 22|Zenski|2|true|true
+Aaaa|AAA|35345|Adresa 33|Muski|3|true|false
